@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://satyabrd:satyabrd>@studentmarksheet.uqbqs.mongodb.net/DragonMusic?retryWrites=true&w=majority",
+    "jwtsecret": "mysecrettoken"
+}

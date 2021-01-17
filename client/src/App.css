@@ -2,6 +2,11 @@
   text-align: center;
 }
 
+.primary_button{
+  margin-top: 20px;
+  margin-right: 30px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;

@@ -1,0 +1,23 @@
+.satya_table{
+    margin-top: 30px;
+}
+.songTitle{
+    margin-left: 20px;
+    margin-bottom: 80px;
+}
+.spinnerStyle{
+    margin-top: 70px;
+    margin-left: 80px;
+    height: 200px;
+    width: 200px;
+}
+.modal_styles{
+    margin-left: 10rem;
+    height: 300px;
+    width: 80%!important;
+    margin-top: 2rem;
+}
+.modal_footer_btn{
+    float: right;
+    width: 10%;
+}
